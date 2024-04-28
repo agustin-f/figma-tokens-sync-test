@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 28 Apr 2024 20:32:34 GMT
+ * Generated on Sun, 28 Apr 2024 20:54:16 GMT
  */
 
 :root {
@@ -58,8 +58,8 @@
   --sd-font-ds-test-1-lvi86212-mobile-body-footnote-regular: [object Object];
   --sd-ds-test-1-lvi86212-base-base-white: #fafafaff;
   --sd-ds-test-1-lvi86212-base-base-black: #0a0a0bff;
-  --sd-ds-test-1-lvi86212-primary-primary: #798aadff;
-  --sd-ds-test-1-lvi86212-primary-primary100: #e9ecf1ff;
+  --sd-ds-test-1-lvi86212-primary-primary: #a7aebc;
+  --sd-ds-test-1-lvi86212-primary-primary100: #b8cdf2;
   --sd-ds-test-1-lvi86212-primary-primary200: #d2d8e4ff;
   --sd-ds-test-1-lvi86212-primary-primary300: #bcc4d6ff;
   --sd-ds-test-1-lvi86212-primary-primary400: #a6b1c8ff;
@@ -117,7 +117,7 @@
   --sd-ds-test-1-lvi86212-radius-xxs: 2;
   --sd-ds-test-1-lvi86212-radius-xs: 2;
   --sd-ds-test-1-lvi86212-radius-s: 4;
-  --sd-ds-test-1-lvi86212-radius-sm: 8px;
+  --sd-ds-test-1-lvi86212-radius-sm: 8;
   --sd-ds-test-1-lvi86212-radius-m: 16;
   --sd-ds-test-1-lvi86212-radius-ml: 32;
   --sd-ds-test-1-lvi86212-radius-lg: 64;
